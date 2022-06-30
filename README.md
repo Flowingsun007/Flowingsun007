@@ -3,10 +3,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Once a full stack developer, currently working on developing deep learning framework.
-- 💼 &nbsp; Working as a core development as [OneFlow](https://github.com/Oneflow-Inc/oneflow).
+- 💼 &nbsp; Working as a core development at [OneFlow](https://github.com/Oneflow-Inc/oneflow).
 - 🌱 &nbsp; Learning more about distributed DL systems design and AI compiler.
 - ✍️ &nbsp; Pursuing knowledge and content sharing and blog writing as hobbies.
-- ![Visitor](https://gpvc.arturio.dev/Flowingsun007)
+- ![view](https://gpvc.arturio.dev/Flowingsun007)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -35,11 +35,14 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Idea](https://img.shields.io/badge/-Idea-333333?style=flat&logo=rstudio)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IDEA-333333?style=flat&logo=intellij-idea)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![NsightSystem](https://img.shields.io/badge/-NsightSystem-333333?style=flat&logo=nvidia)
+  ![NsightCompute](https://img.shields.io/badge/-NsightCompute-333333?style=flat&logo=nvidia)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere)
+  ![Audition](https://img.shields.io/badge/-Audition-333333?style=flat&logo=adobe-audition)
+  ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premier)
+  ![GarageBand](https://img.shields.io/badge/-GarageBand-333333?style=flat&logo=apple-garage-band)
 
 <br/>
 

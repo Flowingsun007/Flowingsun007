@@ -51,7 +51,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.zhihu.com/people/better-man007/"><img alt="知乎" src="https://img.shields.io/badge/知乎-www.zhihu.com/people/Lyon-blue?style=flat-square&logo=google-chrome"></a>
 <a href="flowingsun007@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-flowingsun007@163.com-blue?style=flat-square&logo=gmail"></a>
 </p>

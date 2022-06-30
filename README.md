@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Once a full stack developer, currently working on developing deep learning framework
+- 🤔 &nbsp; Once a full stack developer, currently working on developing deep learning framework.
 - 💼 &nbsp; Working as a core development as [OneFlow](https://github.com/Oneflow-Inc/oneflow).
-- 🌱 &nbsp; Learning more about Distributed DL Systems Design and AI Compiler.
+- 🌱 &nbsp; Learning more about distributed DL systems design and AI compiler.
 - ✍️ &nbsp; Pursuing knowledge and content sharing and blog writing as hobbies.
 - ![Visitor](https://gpvc.arturio.dev/Flowingsun007)
 
@@ -12,8 +12,9 @@
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![CUDA](https://img.shields.io/badge/-CUDA-333333?style=flat&logo=nvidia&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Oracle&logoColor=007396)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=00599C)
   ![MyBatis](https://img.shields.io/badge/-MyBatis-333333?style=flat&logo=mybatis)
 - 🌐 &nbsp;
@@ -38,11 +39,11 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere)
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Flowingsun007">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flowingsun007&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flowingsun007&theme=buefy&layout=compact" />
 </a>

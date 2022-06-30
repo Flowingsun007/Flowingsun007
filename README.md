@@ -14,7 +14,7 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![CUDA](https://img.shields.io/badge/-CUDA-333333?style=flat&logo=nvidia&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Oracle&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=00599C)
   ![MyBatis](https://img.shields.io/badge/-MyBatis-333333?style=flat&logo=mybatis)
 - 🌐 &nbsp;

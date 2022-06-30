@@ -13,6 +13,8 @@
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![CUDA](https://img.shields.io/badge/-CUDA-333333?style=flat&logo=nvidia&logoColor=00599C)
+  ![NsightSystem](https://img.shields.io/badge/-NsightSystem-333333?style=flat&logo=nvidia)
+  ![NsightCompute](https://img.shields.io/badge/-NsightCompute-333333?style=flat&logo=nvidia)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=00599C)
@@ -37,12 +39,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IDEA-333333?style=flat&logo=intellij-idea)
 - 🖥 &nbsp;
-  ![NsightSystem](https://img.shields.io/badge/-NsightSystem-333333?style=flat&logo=nvidia)
-  ![NsightCompute](https://img.shields.io/badge/-NsightCompute-333333?style=flat&logo=nvidia)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Audition](https://img.shields.io/badge/-Audition-333333?style=flat&logo=adobe-audition)
-  ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premier)
-  ![GarageBand](https://img.shields.io/badge/-GarageBand-333333?style=flat&logo=apple-garage-band)
+  ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=Adobe%20Premiere%20Pro)
+  ![GarageBand](https://img.shields.io/badge/-GarageBand-333333?style=flat&logo=apple)
 
 <br/>
 

@@ -62,5 +62,3 @@
 <a href="flowingsun007@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-flowingsun007@163.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Flowingsun007](https://github.com/Flowingsun007)
-

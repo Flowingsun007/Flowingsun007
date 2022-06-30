@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Once a full stack developer, currently working on developing deep learning framework.
-- 💼 &nbsp; Working as a core development at [Oneflow-Inc](https://github.com/Oneflow-Inc/).
+- 💼 &nbsp; Working as a core developer at [Oneflow-Inc](https://github.com/Oneflow-Inc/).
 - 🌱 &nbsp; Learning more about distributed DL systems design and AI compiler.
 - ✍️ &nbsp; Pursuing knowledge and content sharing and blog writing as hobbies.
 - ![view](https://gpvc.arturio.dev/Flowingsun007)

@@ -2,11 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Once a full stack developer, currently working on developing deep learning framework
+- 💼 &nbsp; Working as a core development as [OneFlow](https://github.com/Oneflow-Inc/oneflow).
+- 🌱 &nbsp; Learning more about Distributed DL Systems Design and AI Compiler.
+- ✍️ &nbsp; Pursuing knowledge and content sharing and blog writing as hobbies.
 - ![Visitor](https://gpvc.arturio.dev/Flowingsun007)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

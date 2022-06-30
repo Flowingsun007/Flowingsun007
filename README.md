@@ -38,6 +38,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IDEA-333333?style=flat&logo=intellij-idea)
+  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Audition](https://img.shields.io/badge/-Audition-333333?style=flat&logo=adobe-audition)
